@@ -1,11 +1,11 @@
 # Hi, I'm Saqif Hoque  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-<img align="left" src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20AI%20%and%20Blockchain&font=Fira%20Code&width=580&height=45&color=f75c7e&vCenter=true&pause=1000&size=22">
+<img align="left" src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20AI%20and%20Blockchain&font=Fira%20Code&width=680&height=50&color=f75c7e&vCenter=true&pause=1000&size=22">
 
 
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <br>
 

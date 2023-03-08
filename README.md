@@ -1,6 +1,6 @@
 # Hi, I'm Saqif Hoque  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-<h1 align="right">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;A+passionate+Software+Engineer+from+Bangladesh....;I+love+to+work+and+learn+new+things!;My+interests+are+in+AI+and+Blockchain..&center=true&size=30">
 </h1>
 

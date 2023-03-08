@@ -1,12 +1,13 @@
 # Hi, I'm Saqif Hoque  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-<h1 align="left">
- <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20AI%20%and%20Blockchain&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" 
-</h1>
+<img align="left" src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20AI%20%and%20Blockchain&font=Fira%20Code&width=580&height=45&color=f75c7e&vCenter=true&pause=1000&size=22">
 
-A passionate ***Software Engineer*** from Bangladesh. I love to work and learn new things. My interests are in ***AI*** and ***Blockchain***.
+
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+<br>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -15,6 +16,7 @@ A passionate ***Software Engineer*** from Bangladesh. I love to work and learn n
 - 📫 How to reach me **saqifhaque@gmail.com**
 
 - ⚡ Fun fact **I love music and coding.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

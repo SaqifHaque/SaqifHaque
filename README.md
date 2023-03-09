@@ -7,7 +7,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-<br>
+## Hello World 🌎:
+<img align="left" width="15%" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 - 🌱 I’m currently learning **MERN**
 
@@ -51,5 +52,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque" width="70%"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/ArsenTech/ArsenTech/blob/output/github-contribution-grid-snake.svg" alt="SaqifHaque" width="70%"/>
+</p>
+
+<p align="center">
+If you like my profile, leave a ⭐!
+</p>
 
 

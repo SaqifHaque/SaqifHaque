@@ -5,10 +5,11 @@
 
 
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 ## Hello World 🌎:
 <img align="left" width="15%" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+
 
 - 🌱 I’m currently learning **MERN**
 

@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque" width="70%"/>
 </p>
 
 

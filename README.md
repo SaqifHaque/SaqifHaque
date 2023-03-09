@@ -39,3 +39,8 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqifhaque&theme=onedark" alt="SaqifHaque" width="70%"/>
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&row=2&column=3a&theme=onedark" alt="SaqifHaque"  width="70%"/> -->
 </p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque"  width="70%"/>
+</p>
+

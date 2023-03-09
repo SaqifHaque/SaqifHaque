@@ -32,15 +32,24 @@
 ## Favorite Languages ⭐⭐⭐:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqifhaque&layout=compact&theme=onedark&hide=python,html,css,scss,less,blade" alt="SaqifHaque" width="50%" /></p>
 
+## Random Jokes 😽😽😽:
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="RandomJokes" width="70%"/>
+</p>
+
 
 ## Github Stats 🔥🔥🔥:
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=saqifhaque&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" alt="SaqifHaque width="70%" /></p>
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saqifhaque&theme=onedark" alt="SaqifHaque" width="70%"/>
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&row=2&column=3a&theme=onedark" alt="SaqifHaque"  width="70%"/> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saqifhaque&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" alt="SaqifHaque width="70%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque"  width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saqifhaque&theme=onedark" alt="SaqifHaque" width="70%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saqifhaque&&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark" alt="SaqifHaque"/>
+</p>
+
+
 

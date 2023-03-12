@@ -8,8 +8,9 @@
 <img align="right" alt="Coding" width="30%" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 ## Hello World 🌎:
-<img align="left" width="15%" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
+<img align="left" width="20%" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
+- 💼 I'm currently working with **ASP.NET Core** and **React**
 
 - 🌱 I’m currently learning **MERN**
 

@@ -10,9 +10,9 @@
 ## Hello World 🌎:
 <img align="left" width="20%" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
-- 💼 I'm currently working with **ASP.NET Core** and **React**
+- 💼 I'm currently working with **ASP.NET Core** and **React - TypeScript**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN** and **Flutter**
 
 - 💬 Ask me about **React, Vue, MERN, .Net**
 
@@ -59,7 +59,7 @@
 </p>
 
 <h1 align="center">
-If you like my profile, Please leave a ⭐!
+Looking forward to contribute and work with you!
 </h1>
 
 

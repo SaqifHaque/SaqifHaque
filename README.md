@@ -59,7 +59,7 @@
 </p>
 
 <h1 align="center">
-Looking forward to contribute and work with you!
+Thank you for reaching out! ⭐
 </h1>
 
 

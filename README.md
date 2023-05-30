@@ -35,7 +35,7 @@
 ## Favorite Languages ⭐⭐⭐:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqifhaque&layout=compact&theme=onedark&hide=python,html,css,scss,less,blade" alt="SaqifHaque" width="70%" /></p>
 
-## Random Jokes 😽😽😽:
+## Random Dev Quotes 😽😽😽:
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="RandomJokes" width="70%"/>
 </p>

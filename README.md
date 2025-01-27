@@ -12,9 +12,9 @@
 
 - 💼 I'm currently working with **ASP.NET Core** and **React - TypeScript**
 
-- 🌱 I’m currently learning **MERN** and **Flutter**
+- 🌱 I’m currently learning **AWS** and **Swift**
 
-- 💬 Ask me about **React, Vue, MERN, .Net**
+- 💬 Ask me about **React, Vue, Laravel, MERN, .Net**
 
 - 📫 How to reach me **saqifhaque@gmail.com**
 

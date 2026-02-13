@@ -1,7 +1,6 @@
 # Hi, I'm Saqif Hoque  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-<img align="left" width="100%" src="https://readme-typing-svg.demolab.com/?lines=I'm%20a%20Software%20Engineer;Always%20learning%20new%20things;My%20Interests%20are%20Web Development%20and%20Blockchain&font=Fira%20Code&width=1000&height=50&color=f75c7e&vCenter=true&pause=500&size=22">
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=3793FF&width=435&lines=I'm+a+Software+Engineer!;Always+Learning+New+Things!;My+Interests+are+AI+and+Blockchain!;Thank+you+for+reaching+out+to+me!+)](https://git.io/typing-svg)
 
 
 
